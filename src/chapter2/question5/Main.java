@@ -25,7 +25,5 @@ public class Main {
 
         System.out.printf("(%d/100) * 4 = %d", percentage, gpa );
 
-
-        System.out.println("This is a git try!!!!!!");
     }
 }
